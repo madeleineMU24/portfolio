@@ -1,0 +1,39 @@
+body{
+    background-color: rgb(190, 174, 173);
+    font-family: fantasy;
+}
+
+section{
+    text-align: center;
+}
+
+
+
+h2{
+    margin: 0em;
+}
+
+
+aside{
+    float: right;
+    padding-right: 200px;
+    margin-right: 200px;
+}
+ol{
+    margin: 0em;
+}
+ul{
+    list-style: square;
+    margin: 0em;
+}
+
+a{
+    text-decoration: none;
+    color: rgb(109, 109, 109);
+}
+
+footer{
+    font-size: small;
+    margin-top: 5em;
+    text-align: right;
+}
